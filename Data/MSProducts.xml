@@ -36,6 +36,7 @@
 	<Model SystemSKU="Surface Hub 2S 85" ProductName="SurfaceHub2" DisplayName="Surface Hub 2S 85" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
 	<Model SystemSKU="Surface_Pro_8_for_Business_1983" ProductName="SurfacePro8" DisplayName="Sufrace Pro 8" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
 	<Model SystemSKU="Surface_Pro_8_for_Business_with_LTE_Advanced_1982" ProductName="SurfacePro8LTE" DisplayName="Sufrace Pro 8 LTE" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
+	<Model SystemSKU="Surface_Pro_9_for_Business_2038" ProductName="Surface Pro 9" DisplayName="Surface Pro 9 for Business" SupportedBuilds="1809,1903,1909,2004,2009,21H2"></Model>
 	<Model SystemSKU="Surface_Pro_X_1876" ProductName="SurfaceProX" DisplayName="Sufrace Pro X with SQ1" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
 	<Model SystemSKU="Surface_Pro_X_H_1876" ProductName="SurfaceProX" DisplayName="Sufrace Pro X with SQ2" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
 	<Model SystemSKU="Surface_Studio" ProductName="SurfaceStudio" DisplayName="Surface Studio" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
