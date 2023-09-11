@@ -29,8 +29,8 @@
 	<Model SystemSKU="Surface_Studio" ProductName="SurfaceStudio" DisplayName="Surface Studio" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
 	<Model SystemSKU="Surface_Laptop_4_1950:1951" ProductName="SurfaceLaptop4/Intel" DisplayName="Surface Laptop 4 - Intel 13" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
 	<Model SystemSKU="Surface_Laptop_4_1978:1979" ProductName="SurfaceLaptop4/Intel" DisplayName="Surface Laptop 4 - Intel 15" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
-	<Model SystemSKU="Surface_Laptop_5_for_Business_1979" ProductName="SurfaceLaptop5" DisplayName="Surface Laptop 15" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
-	<Model SystemSKU="Surface_Laptop_5_for_Business_1950:1951" ProductName="SurfaceLaptop5" DisplayName="Surface Laptop 5 13" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
+	<Model SystemSKU="Surface_Laptop_5_for_Business_1979" ProductName="SurfaceLaptop5" DisplayName="Surface Laptop 15" SupportedBuilds="1809,1903,1909,2004,2009,21H2"></Model>
+	<Model SystemSKU="Surface_Laptop_5_for_Business_1950:1951" ProductName="SurfaceLaptop5" DisplayName="Surface Laptop 5 13" SupportedBuilds="1809,1903,1909,2004,2009,21H2"></Model>
 	<Model SystemSKU="Surface_Laptop_4_1958:1959" ProductName="SurfaceLaptop4/AMD" DisplayName="Surface Laptop 4 - AMD 13" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
 	<Model SystemSKU="Surface_Laptop_4_1952:1953" ProductName="SurfaceLaptop4/AMD" DisplayName="Surface Laptop 4 - AMD 15" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
 	<Model SystemSKU="Surface_Studio_2_1707_Commercial" ProductName="SurfaceStudio2" DisplayName="Surface Studio 2" SupportedBuilds="1809,1903,1909,2004,2009"></Model>
